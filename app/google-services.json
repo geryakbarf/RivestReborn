@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049377235128",
+    "firebase_url": "https://coba-780da.firebaseio.com",
+    "project_id": "coba-780da",
+    "storage_bucket": "coba-780da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049377235128:android:02b28a278c08d9294e144d",
+        "android_client_info": {
+          "package_name": "com.geryaf.rivestreborn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049377235128-6pvl262tjttu6akqhfphdp055kmh9af0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnPdWi7JWa8DNnDJStbMh_qDSa0HIIpsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049377235128-6pvl262tjttu6akqhfphdp055kmh9af0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Drivy</string>
+    <string name="testing_saja">Testing Saja</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk atau Daftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="selamat_datang">Selamat Datang di Drivy</string>
+    <string name="create_an_account">Membuat Akun</string>
+    <string name="sign_in">Daftar</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="ktp_number">Nomor KTP</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Ulangi Password</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_an_account_sign_in">Sudah punya akun ? Masuk</string>
+    <string name="hallo_pengguna">Hallo Pengguna !</string>
+    <string name="terakhir_berkendara">Terakhir Berkendara</string>
+    <string name="istana_bec_kota_bandung">Istana BEC Kota Bandung</string>
+    <string name="selasa_10_november_2020">Selasa, 10 November 2020</string>
+    <string name="dengan_jarak_tempuh_22_km">Dengan Jarak Tempuh 22 km</string>
+    <string name="zonasi">Zonasi</string>
+    <string name="kecelakaan">Kecelakaan</string>
+    <string name="berita">Berita</string>
+    <string name="berita_terkini">Berita Terkini</string>
+    <string name="gubernur_jawa_barat_ridwan_kamil_mulai_fokus_untuk_perbaiki_jalan_di_kota_bandung">Gubernur Jawa Barat Ridwan Kamil mulai fokus untuk perbaiki jalan di Kota Bandung</string>
+    <string name="_6_november_2020">6 November 2020</string>
+</resources>

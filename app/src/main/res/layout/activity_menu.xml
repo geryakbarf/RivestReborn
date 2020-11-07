@@ -157,7 +157,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/btnKecelakaan"
-                android:layout_width="odp"
+                android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"

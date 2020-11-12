@@ -32,4 +32,10 @@
     <string name="berita_terkini">Berita Terkini</string>
     <string name="gubernur_jawa_barat_ridwan_kamil_mulai_fokus_untuk_perbaiki_jalan_di_kota_bandung">Gubernur Jawa Barat Ridwan Kamil mulai fokus untuk perbaiki jalan di Kota Bandung</string>
     <string name="_6_november_2020">6 November 2020</string>
+    <string name="title_activity_menu">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tennant">Tennant</string>
+    <string name="profile">Profile</string>
 </resources>

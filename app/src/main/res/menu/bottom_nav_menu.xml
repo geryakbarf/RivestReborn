@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_zonasi"
+        android:icon="@drawable/baseline_gps_fixed_24"
+        android:title="@string/zonasi" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/baseline_email_24"
+        android:title="@string/berita" />
+
+    <item
+        android:id="@+id/navigation_tennant"
+        android:icon="@drawable/baseline_add_business_24"
+        android:title="@string/tennant" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/profile"/>
+
+</menu>
